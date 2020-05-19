@@ -1,0 +1,53 @@
+#learn Git
+
+1.linux平台上Git的安装与配置
+安装：yum -y install git
+查看版本号：git --version
+查看帮助：git --help
+配置：git config
+	配置个人用户名：git config --global user.name "***"
+	配置电子邮件地址：git config --global user.email ***@**.com
+
+2.从本地推送至远程
+(1):git add file
+将文件放入暂存区
+(2):git commit
+将暂存区的文件提交到当前分支
+(3):git push
+将提交推送至github服务器端
+
+
+
+3.常用的本地命令
+(1):git clone
+
+(2):git checkout
+
+(3):git commit
+
+(4):git branch
+
+(5):git merge
+
+(6):git rebase
+
+(7):git log
+
+(8):"~"
+
+(9):"^"
+
+(10):git reset
+
+(11):git tag
+
+(12):git fetch
+
+(13):git pull
+
+(14):git pull --rebase
+
+(15):git push
+
+(16):git add
+
