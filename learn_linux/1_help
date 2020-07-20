@@ -1,0 +1,9 @@
+1. 学会使用帮助命令
+
+1)whatis command：简要说明命令的作用
+
+2)man command：查询命令的说明文档
+
+3)which command：查询命令所在路径
+
+4)whereis command：查询程序的搜索路径
